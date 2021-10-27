@@ -4709,3 +4709,187 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.27-18.10.07:857][155]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.27-18.10.07:857][155]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.10.27-18.10.07:857][155]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.10.27-18.10.48:311][189]LogEditorTransaction: Undo Break Pin Links
+[2021.10.27-18.10.51:625][471]LogEditorTransaction: Undo Break Pin Links
+[2021.10.27-18.11.00:435][234]BlueprintLog: New page: Compile weaponbasebp
+[2021.10.27-18.11.00:485][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.10.27-18.11.01:151][281]LogSavePackage: Moving '../../../../../../Users/chris/OneDrive/Dokument/GitHub/gyare2/Saved/weaponbasebpD0AA247E456220BBDFE7EC919F25C329.tmp' to '../../../../../../Users/chris/OneDrive/Dokument/GitHub/gyare2/Content/FirstPersonBP/Blueprints/weaponbasebp.uasset'
+[2021.10.27-18.11.01:190][281]AssetCheck: New page: Asset Save: weaponbasebp
+[2021.10.27-18.11.01:190][281]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/weaponbasebp.weaponbasebp
+[2021.10.27-18.11.01:684][326]LogSlate: Window 'weaponbasebp' being destroyed
+[2021.10.27-18.11.01:696][326]LogSlate: Window 'weaponbasebp' being destroyed
+[2021.10.27-18.11.01:728][326]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-18.11.01:728][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-18.11.02:452][399]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-18.11.02:456][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-18.11.02:456][399]PIE: New page: PIE session: FirstPersonExampleMap (27 okt. 2021 22:11:02)
+[2021.10.27-18.11.02:498][399]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.27-18.11.02:507][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009049s)
+[2021.10.27-18.11.02:509][399]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.27-18.11.02:509][399]LogPlayLevel: PIE: World Init took: (0.001353s)
+[2021.10.27-18.11.02:509][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010579s)
+[2021.10.27-18.11.02:535][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.10.27-18.11.02:536][399]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.10.27-18.11.02:537][399]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-18.11.02:537][399]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-18.11.02:537][399]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-18.11.02:537][399]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-18.11.02:537][399]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-18.11.02:537][399]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-18.11.02:537][399]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-18.11.02:537][399]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-18.11.02:537][399]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-18.11.02:537][399]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-18.11.02:540][399]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-18.11.02:540][399]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-18.11.02:549][399]LogAudioMixer: Display: Using Audio Device Högtalare (HyperX Cloud Flight Wireless Headset)
+[2021.10.27-18.11.02:550][399]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-18.11.02:550][399]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-18.11.02:550][399]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-18.11.02:550][399]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-18.11.02:550][399]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-18.11.02:550][399]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-18.11.02:563][399]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-18.11.02:563][399]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-18.11.02:564][399]LogInit: FAudioDevice initialized.
+[2021.10.27-18.11.02:564][399]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonExampleMap'.
+[2021.10.27-18.11.02:569][399]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.27-18.11.02:572][399]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.10.27-20.11.02
+[2021.10.27-18.11.02:572][399]LogWorld: Bringing up level for play took: 0.001203
+[2021.10.27-18.11.02:572][399]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.10.27-18.11.02:574][399]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (AmmoHealth_Hud)
+[2021.10.27-18.11.02:574][399]PIE: Server logged in
+[2021.10.27-18.11.02:575][399]PIE: Play in editor total start time 0,12 seconds.
+[2021.10.27-18.11.03:234][474]LogBlueprintUserMessages: [ak_weapon_C_0] 9
+[2021.10.27-18.11.04:009][567]LogBlueprintUserMessages: [ak_weapon_C_0] 8
+[2021.10.27-18.11.04:892][673]LogBlueprintUserMessages: [ak_weapon_C_0] 7
+[2021.10.27-18.11.05:527][749]LogBlueprintUserMessages: [ak_weapon_C_0] 6
+[2021.10.27-18.11.05:944][799]LogBlueprintUserMessages: [ak_weapon_C_0] 5
+[2021.10.27-18.11.06:742][895]LogBlueprintUserMessages: [ak_weapon_C_0] 4
+[2021.10.27-18.11.07:243][955]LogBlueprintUserMessages: [ak_weapon_C_0] 3
+[2021.10.27-18.11.08:221][ 72]LogBlueprintUserMessages: [ak_weapon_C_0] 2
+[2021.10.27-18.11.08:630][121]LogBlueprintUserMessages: [ak_weapon_C_0] 1
+[2021.10.27-18.11.08:962][161]LogBlueprintUserMessages: [ak_weapon_C_0] 0
+[2021.10.27-18.11.12:457][580]LogBlueprintUserMessages: [ak_weapon_C_0] 10
+[2021.10.27-18.11.13:641][722]LogBlueprintUserMessages: [ak_weapon_C_0] 9
+[2021.10.27-18.11.14:101][777]LogBlueprintUserMessages: [ak_weapon_C_0] 8
+[2021.10.27-18.11.14:483][823]LogBlueprintUserMessages: [ak_weapon_C_0] 7
+[2021.10.27-18.11.14:907][873]LogBlueprintUserMessages: [ak_weapon_C_0] 6
+[2021.10.27-18.11.15:335][924]LogBlueprintUserMessages: [ak_weapon_C_0] 5
+[2021.10.27-18.11.15:701][968]LogBlueprintUserMessages: [ak_weapon_C_0] 4
+[2021.10.27-18.11.16:117][ 18]LogBlueprintUserMessages: [ak_weapon_C_0] 3
+[2021.10.27-18.11.16:451][ 58]LogBlueprintUserMessages: [ak_weapon_C_0] 2
+[2021.10.27-18.11.16:792][ 99]LogBlueprintUserMessages: [ak_weapon_C_0] 1
+[2021.10.27-18.11.17:126][139]LogBlueprintUserMessages: [ak_weapon_C_0] 0
+[2021.10.27-18.11.20:085][494]LogBlueprintUserMessages: [ak_weapon_C_0] 10
+[2021.10.27-18.11.21:235][632]LogBlueprintUserMessages: [ak_weapon_C_0] 9
+[2021.10.27-18.11.21:589][674]LogBlueprintUserMessages: [ak_weapon_C_0] 8
+[2021.10.27-18.11.21:972][720]LogBlueprintUserMessages: [ak_weapon_C_0] 7
+[2021.10.27-18.11.22:230][751]LogBlueprintUserMessages: [ak_weapon_C_0] 6
+[2021.10.27-18.11.22:555][790]LogBlueprintUserMessages: [ak_weapon_C_0] 5
+[2021.10.27-18.11.22:806][820]LogBlueprintUserMessages: [ak_weapon_C_0] 4
+[2021.10.27-18.11.23:030][847]LogBlueprintUserMessages: [ak_weapon_C_0] 3
+[2021.10.27-18.11.23:256][874]LogBlueprintUserMessages: [ak_weapon_C_0] 2
+[2021.10.27-18.11.23:448][897]LogBlueprintUserMessages: [ak_weapon_C_0] 1
+[2021.10.27-18.11.25:767][175]LogBlueprintUserMessages: [ak_weapon_C_0] 10
+[2021.10.27-18.11.27:690][404]LogBlueprintUserMessages: [ak_weapon_C_0] 9
+[2021.10.27-18.11.27:998][439]LogBlueprintUserMessages: [ak_weapon_C_0] 8
+[2021.10.27-18.11.28:290][474]LogBlueprintUserMessages: [ak_weapon_C_0] 7
+[2021.10.27-18.11.28:590][510]LogBlueprintUserMessages: [ak_weapon_C_0] 6
+[2021.10.27-18.11.28:923][550]LogBlueprintUserMessages: [ak_weapon_C_0] 5
+[2021.10.27-18.11.29:281][593]LogBlueprintUserMessages: [ak_weapon_C_0] 4
+[2021.10.27-18.11.29:624][634]LogBlueprintUserMessages: [ak_weapon_C_0] 3
+[2021.10.27-18.11.29:942][672]LogBlueprintUserMessages: [ak_weapon_C_0] 2
+[2021.10.27-18.11.30:241][708]LogBlueprintUserMessages: [ak_weapon_C_0] 1
+[2021.10.27-18.11.30:575][748]LogBlueprintUserMessages: [ak_weapon_C_0] 0
+[2021.10.27-18.11.32:975][ 36]LogBlueprintUserMessages: [ak_weapon_C_0] 10
+[2021.10.27-18.11.35:079][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-18.11.35:079][283]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.27-18.11.35:080][283]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-18.11.35:080][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-18.11.35:090][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-18.11.35:094][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-18.11.35:108][283]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.27-18.11.35:109][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-18.11.35:110][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-18.11.35:126][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-18.11.35:128][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.10.27-18.11.35:150][284]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.10.27-18.11.36:363][397]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/weaponbasebp.weaponbasebp
+[2021.10.27-18.12.17:456][221]BlueprintLog: New page: Compile weaponbasebp
+[2021.10.27-18.12.17:503][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.10.27-18.12.18:293][285]LogSavePackage: Moving '../../../../../../Users/chris/OneDrive/Dokument/GitHub/gyare2/Saved/weaponbasebp6E9453A34544A17145D831953EFD8A59.tmp' to '../../../../../../Users/chris/OneDrive/Dokument/GitHub/gyare2/Content/FirstPersonBP/Blueprints/weaponbasebp.uasset'
+[2021.10.27-18.12.18:309][285]AssetCheck: New page: Asset Save: weaponbasebp
+[2021.10.27-18.12.18:309][285]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/weaponbasebp.weaponbasebp
+[2021.10.27-18.12.19:559][394]LogSlate: Window 'weaponbasebp' being destroyed
+[2021.10.27-18.12.19:566][394]LogSlate: Window 'weaponbasebp' being destroyed
+[2021.10.27-18.12.19:570][394]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-18.12.19:570][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-18.12.21:100][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.10.27-18.12.21:115][560]LogSavePackage: Moving '../../../../../../Users/chris/OneDrive/Dokument/GitHub/gyare2/Saved/FirstPersonExampleMapB273A6E5454A2EEBB9CBBC9E6D10FA39.tmp' to '../../../../../../Users/chris/OneDrive/Dokument/GitHub/gyare2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.27-18.12.21:653][560]LogSavePackage: Moving '../../../../../../Users/chris/OneDrive/Dokument/GitHub/gyare2/Saved/FirstPersonExampleMap_BuiltDataD1A6DBEB4527E35048E24CAECB19E452.tmp' to '../../../../../../Users/chris/OneDrive/Dokument/GitHub/gyare2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.10.27-18.12.21:664][560]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.27-18.12.21:664][560]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.10.27-18.12.21:664][560]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.10.27-18.12.23:351][758]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-18.12.23:356][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-18.12.23:356][758]PIE: New page: PIE session: FirstPersonExampleMap (27 okt. 2021 22:12:23)
+[2021.10.27-18.12.23:389][758]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.27-18.12.23:398][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008794s)
+[2021.10.27-18.12.23:399][758]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.27-18.12.23:399][758]LogPlayLevel: PIE: World Init took: (0.001394s)
+[2021.10.27-18.12.23:399][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010389s)
+[2021.10.27-18.12.23:422][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.10.27-18.12.23:424][758]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.10.27-18.12.23:424][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-18.12.23:424][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-18.12.23:424][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-18.12.23:424][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-18.12.23:424][758]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-18.12.23:424][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-18.12.23:424][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-18.12.23:424][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-18.12.23:425][758]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-18.12.23:425][758]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-18.12.23:428][758]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-18.12.23:428][758]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-18.12.23:438][758]LogAudioMixer: Display: Using Audio Device Högtalare (HyperX Cloud Flight Wireless Headset)
+[2021.10.27-18.12.23:438][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-18.12.23:439][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-18.12.23:439][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-18.12.23:439][758]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-18.12.23:439][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-18.12.23:439][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-18.12.23:453][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-18.12.23:453][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-18.12.23:453][758]LogInit: FAudioDevice initialized.
+[2021.10.27-18.12.23:453][758]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonExampleMap'.
+[2021.10.27-18.12.23:464][758]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.27-18.12.23:466][758]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.10.27-20.12.23
+[2021.10.27-18.12.23:466][758]LogWorld: Bringing up level for play took: 0.001190
+[2021.10.27-18.12.23:466][758]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.10.27-18.12.23:468][758]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (AmmoHealth_Hud)
+[2021.10.27-18.12.23:468][758]PIE: Server logged in
+[2021.10.27-18.12.23:469][758]PIE: Play in editor total start time 0,114 seconds.
+[2021.10.27-18.12.24:021][820]LogBlueprintUserMessages: [ak_weapon_C_0] 9
+[2021.10.27-18.12.25:261][969]LogBlueprintUserMessages: [ak_weapon_C_0] 8
+[2021.10.27-18.12.25:469][994]LogBlueprintUserMessages: [ak_weapon_C_0] 7
+[2021.10.27-18.12.25:678][ 19]LogBlueprintUserMessages: [ak_weapon_C_0] 6
+[2021.10.27-18.12.25:903][ 46]LogBlueprintUserMessages: [ak_weapon_C_0] 5
+[2021.10.27-18.12.26:112][ 71]LogBlueprintUserMessages: [ak_weapon_C_0] 4
+[2021.10.27-18.12.26:286][ 92]LogBlueprintUserMessages: [ak_weapon_C_0] 3
+[2021.10.27-18.12.26:486][116]LogBlueprintUserMessages: [ak_weapon_C_0] 2
+[2021.10.27-18.12.26:712][143]LogBlueprintUserMessages: [ak_weapon_C_0] 1
+[2021.10.27-18.12.26:920][168]LogBlueprintUserMessages: [ak_weapon_C_0] 0
+[2021.10.27-18.12.29:421][468]LogBlueprintUserMessages: [ak_weapon_C_0] 10
+[2021.10.27-18.12.30:750][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-18.12.30:750][623]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.27-18.12.30:750][623]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-18.12.30:750][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-18.12.30:761][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-18.12.30:764][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-18.12.30:779][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-18.12.30:780][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-18.12.30:781][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-18.12.30:799][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.10.27-18.12.30:821][624]LogPlayLevel: Display: Destroying online subsystem :Context_50
